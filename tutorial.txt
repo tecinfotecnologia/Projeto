@@ -8,4 +8,4 @@ git commit -m "Commit message"
 
 git branch -M main
 
-git push -f origin master
+git push -u origin main
