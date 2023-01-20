@@ -6,4 +6,6 @@ git status
 
 git commit -m "Commit message"
 
+git branch -M main
+
 git push -f origin master
